@@ -1,5 +1,4 @@
-# walmart-sales-prediction
-Predicting Walmart Sales
+# Predicting Walmart Sales
 
 Provided by Kaggle, the dataset is “Walmart Recruiting – Store Sales Forecasting.” The challenge that we face is how to make business decisions based on limited history. Specifically, our final goal is to predict weekly sales of each of the stores based on other variables. Predicting sales is important because managers can do inventory management better and plan for promotions when there is expected to be a dip in sales. Sales forecasting can also largely help a retail company to boost its profit.
            
